@@ -20,20 +20,9 @@ Estudante de **Engenharia de Software** na **PUC Minas (Coração Eucarístico)*
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LukCandeia&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5" alt="Lucas Nathan GitHub Stats" />
-    
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukCandeia&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Langs" />
-</div>
-
----
-
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/lukas-candeia-96770827a/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lukasnathan62@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-candeia-96770827a/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lukasnathan62@gmail.com)
 
 ---
 
