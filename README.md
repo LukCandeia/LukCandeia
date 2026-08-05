@@ -4,7 +4,7 @@ Estudante de **Engenharia de Software** na **PUC Minas (Coração Eucarístico)*
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 - 🎓 Graduando em Engenharia de Software pela PUC Minas.
 
@@ -20,7 +20,7 @@ Estudante de **Engenharia de Software** na **PUC Minas (Coração Eucarístico)*
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-candeia-96770827a/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lukasnathan62@gmail.com)
 
