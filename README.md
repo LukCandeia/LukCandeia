@@ -79,12 +79,11 @@ PUC Minas (Coração Eucarístico) — Fev/2026 – Dez/2029
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LukCandeia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukCandeia&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LukCandeia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukCandeia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LukCandeia&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=LukCandeia&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 </div>
 
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%"/>
