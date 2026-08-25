@@ -79,10 +79,18 @@ PUC Minas (Coração Eucarístico) — Fev/2026 – Dez/2029
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LukCandeia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukCandeia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+<img src="https://raw.githubusercontent.com/LukCandeia/LukCandeia/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-<img src="https://streak-stats.demolab.com/?user=LukCandeia&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<br/>
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Lukas%20Candeia-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lukas-candeia-96770827a)
+[![Gmail](https://img.shields.io/badge/-Lukasnathan62%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:Lukasnathan62@gmail.com)
 
 </div>
 
