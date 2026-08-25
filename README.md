@@ -87,14 +87,4 @@ PUC Minas (Coração Eucarístico) — Fev/2026 – Dez/2029
 </div>
 
 <br/>
-
-## Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Lukas%20Candeia-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lukas-candeia-96770827a)
-[![Gmail](https://img.shields.io/badge/-Lukasnathan62%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:Lukasnathan62@gmail.com)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%"/>
