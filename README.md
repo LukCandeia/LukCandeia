@@ -70,7 +70,6 @@ Fev/2026 – Presente
 **Bacharelado em Engenharia de Software**
 PUC Minas (Coração Eucarístico) — Fev/2026 – Dez/2029
 
-- Avaliação de Desempenho Acadêmico (ADA)
 - Prática contínua em algoritmos e estruturas de dados avançadas (LeetCode)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%"/>
