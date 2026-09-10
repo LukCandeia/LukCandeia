@@ -22,7 +22,7 @@ Estudante de Engenharia de Software, com foco em Backend. Experiência em arquit
 
 - Graduando em Engenharia de Software — PUC Minas (Fev/2026 – Dez/2029)
 - Estagiário em Engenharia de Software / Desenvolvedor Júnior
-- Pedro Leopoldo, MG
+- Belo Horizonte, MG
 - Prática contínua em algoritmos e estruturas de dados (LeetCode)
 
 <br/>
