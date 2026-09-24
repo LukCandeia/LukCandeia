@@ -21,7 +21,6 @@
 Estudante de Engenharia de Software, com foco em Backend. Experiência em arquitetura de software, desenvolvimento de soluções escaláveis em ambientes colaborativos, resolução de problemas algorítmicos e automação de processos.
 
 - Graduando em Engenharia de Software — PUC Minas (Fev/2026 – Dez/2029)
-- Estagiário em Engenharia de Software / Desenvolvedor Júnior
 - Belo Horizonte, MG
 - Prática contínua em algoritmos e estruturas de dados (LeetCode)
 
@@ -69,7 +68,5 @@ Fev/2026 – Presente
 
 **Bacharelado em Engenharia de Software**
 PUC Minas (Coração Eucarístico) — Fev/2026 – Dez/2029
-
-- Prática contínua em algoritmos e estruturas de dados avançadas (LeetCode)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%"/>
