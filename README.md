@@ -50,7 +50,6 @@ Estudante de Engenharia de Software, com foco em Backend. Experiência em arquit
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logo=openai&logoColor=white)
 
 <br/>
 
