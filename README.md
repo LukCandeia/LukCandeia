@@ -57,7 +57,7 @@ Estudante de Engenharia de Software na PUC Minas. Desenvolvo projetos acadêmico
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LukCandeia&show_icons=true&locale=pt-br&bg_color=0D1117&title_color=8AB4ED&text_color=E8EDF5&icon_color=639CE0&border_color=30363D&custom_title=GitHub%20de%20Lukas%20Candeia" alt="Estatísticas do GitHub de Lukas Candeia, incluindo commits, stars, pull requests e issues" />
+  <img width="49%" src="./assets/stats.svg" alt="Estatísticas do GitHub" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=LukCandeia&locale=pt_BR&background=0D1117&border=30363D&stroke=30363D&ring=639CE0&fire=E3AA91&currStreakNum=E8EDF5&sideNums=E8EDF5&currStreakLabel=8AB4ED&sideLabels=8AB4ED&dates=A5ADBA" alt="Total de contribuições, sequência atual e maior sequência de dias contribuindo" />
 </div>
 
@@ -76,7 +76,7 @@ Estudante de Engenharia de Software na PUC Minas. Desenvolvo projetos acadêmico
 <h2 align="center">Atividade recente</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LukCandeia&bg_color=0D1117&color=E8EDF5&line=639CE0&point=E3AA91&area=true&area_color=20376B&border_color=30363D&custom_title=Contribui%C3%A7%C3%B5es%20de%20Lukas%20Candeia" alt="Gráfico de contribuições recentes de Lukas Candeia" />
+  <img width="100%" src="./assets/activity.svg" alt="Gráfico de contribuições recentes de Lukas Candeia" />
 </p>
 
 <br/>
@@ -97,3 +97,4 @@ Fev/2026 – Presente
 PUC Minas (Coração Eucarístico) — Fev/2026 – Dez/2029
 
 <img src="./assets/footer.svg" width="100%" alt="" />
+
