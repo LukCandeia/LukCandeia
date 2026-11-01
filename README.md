@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Lukas%20Nathan%20Candeia&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estagi%C3%A1rio%20em%20Engenharia%20de%20Software%20%7C%20Desenvolvedor%20J%C3%BAnior&descAlignY=58&descSize=16" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Lukas Candeia — Engenheiro de Software. Paisagem azul escura com dunas animadas." />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Python+%7C+JavaScript+%7C+Java" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1400&color=8AB4ED&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=Python+%7C+JavaScript+%7C+Java;Arquitetura+de+software;Algoritmos+e+automa%C3%A7%C3%A3o" width="100%" alt="Python, JavaScript e Java. Arquitetura de software. Algoritmos e automação." />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lukas-candeia-96770827a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LukCandeia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Lukasnathan62@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/lukas-candeia-96770827a)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/LukCandeia)
+[![Gmail](https://img.shields.io/badge/Gmail-161B22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:Lukasnathan62@gmail.com)
 
 </div>
 
 <br/>
 
-## Sobre
+<h2 align="center">Sobre</h2>
 
-Estudante de Engenharia de Software, com foco em Backend. Experiência em arquitetura de software, desenvolvimento de soluções escaláveis em ambientes colaborativos, resolução de problemas algorítmicos e automação de processos.
+Estudante de Engenharia de Software na PUC Minas. Desenvolvo projetos acadêmicos com foco em arquitetura de software, automação de processos e resolução de problemas, trabalhando em equipe ao longo do ciclo de desenvolvimento.
 
 - Graduando em Engenharia de Software — PUC Minas (Fev/2026 – Dez/2029)
 - Belo Horizonte, MG
@@ -26,36 +24,66 @@ Estudante de Engenharia de Software, com foco em Backend. Experiência em arquit
 
 <br/>
 
-## Competências técnicas
+<h2 align="center">Tecnologias</h2>
 
-**Linguagens**
+<p align="center"><strong>Linguagens</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java&theme=dark" alt="Python, JavaScript e Java" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p align="center"><strong>Frameworks e bibliotecas</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react&theme=dark" alt="Node.js e React" />
+</p>
 
-**Frameworks e bibliotecas**
+<p align="center"><strong>Bancos de dados</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JSON%20Server-161B22?style=flat-square&logo=json&logoColor=white" alt="JSON Server" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Bancos de dados**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JSON Server](https://img.shields.io/badge/JSON%20Server-000000?style=flat-square&logo=json&logoColor=white)
-
-**Ferramentas e ecossistema**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+<p align="center"><strong>Ferramentas e ecossistema</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Git, GitHub e Figma" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Miro-161B22?style=flat-square&logo=miro&logoColor=FFD02F" alt="Miro" />
+</p>
 
 <br/>
 
-## Experiência
+<h2 align="center">Estatísticas</h2>
 
-**Desenvolvedor (Projetos Acadêmicos) — PUC Minas**
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LukCandeia&show_icons=true&locale=pt-br&bg_color=0D1117&title_color=8AB4ED&text_color=E8EDF5&icon_color=639CE0&border_color=30363D&custom_title=GitHub%20de%20Lukas%20Candeia" alt="Estatísticas do GitHub de Lukas Candeia, incluindo commits, stars, pull requests e issues" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=LukCandeia&locale=pt_BR&background=0D1117&border=30363D&stroke=30363D&ring=639CE0&fire=E3AA91&currStreakNum=E8EDF5&sideNums=E8EDF5&currStreakLabel=8AB4ED&sideLabels=8AB4ED&dates=A5ADBA" alt="Total de contribuições, sequência atual e maior sequência de dias contribuindo" />
+</div>
+
+<br/>
+
+<h2 align="center">Calendário de contribuições</h2>
+
+<p align="center">
+  <a href="https://github.com/LukCandeia?tab=overview">
+    <img src="./assets/contributions.svg" width="100%" alt="Calendário de contribuições de Lukas Candeia nos últimos 12 meses" />
+  </a>
+</p>
+
+<br/>
+
+<h2 align="center">Atividade recente</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LukCandeia&bg_color=0D1117&color=E8EDF5&line=639CE0&point=E3AA91&area=true&area_color=20376B&border_color=30363D&custom_title=Contribui%C3%A7%C3%B5es%20de%20Lukas%20Candeia" alt="Gráfico de contribuições recentes de Lukas Candeia" />
+</p>
+
+<br/>
+
+<h2 align="center">Experiência</h2>
+
+**Desenvolvedor (Projetos Acadêmicos) — PUC Minas**  
 Fev/2026 – Presente
 
 - Automação de sistemas: desenvolvimento de scripts e integração para bots de WhatsApp, otimizando fluxos de dados e comunicação.
@@ -63,9 +91,9 @@ Fev/2026 – Presente
 
 <br/>
 
-## Formação acadêmica
+<h2 align="center">Formação acadêmica</h2>
 
-**Bacharelado em Engenharia de Software**
+**Bacharelado em Engenharia de Software**  
 PUC Minas (Coração Eucarístico) — Fev/2026 – Dez/2029
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="" />
