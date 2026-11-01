@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Lukas Candeia — Engenheiro de Software. Paisagem azul escura com dunas animadas." />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1400&color=8AB4ED&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=Python+%7C+JavaScript+%7C+Java;Arquitetura+de+software;Algoritmos+e+automa%C3%A7%C3%A3o" width="100%" alt="Python, JavaScript e Java. Arquitetura de software. Algoritmos e automação." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1400&color=8AB4ED&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=Python+%7C+JavaScript+%7C+Java;Engenharia+de+software;Algoritmos+e+automa%C3%A7%C3%A3o" width="100%" alt="Python, JavaScript e Java. Engenharia de software. Algoritmos e automação." />
 
 <br/>
 
